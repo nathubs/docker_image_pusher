@@ -1,5 +1,10 @@
-nginx
-hcq11/npc:latest
+postgres:18
+redis:7.4.8
+apache/kafka:3.8.0
+kafbat-ui
+minio/minio:RELEASE.2025-04-22T22-12-26Z
+milvusdb/milvus:v2.6.0
+ossrs/srs:5
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
